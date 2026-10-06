@@ -1,0 +1,3 @@
+# Agents
+
+При правке тестов Vanessa-ADD (`tests/epf`, `ПолучитьСписокТестов`, `tools/xUnitParams.json`) применяй навык `xunit` и правило `xunit-tests`.
